@@ -1,5 +1,5 @@
 # Game-Development
-A space shooter game
+A space shooter game developed in c sharp programming language for my year 1 Software Engineering Software Design Fundamentals and Programming class assignment.
 
 Main Screen
 
