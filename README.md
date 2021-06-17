@@ -1,5 +1,5 @@
 # Game-Development
-A space shooter game developed in c sharp programming language for my year 1 Software Engineering Software Design Fundamentals and Programming class assignment.
+A space shooter game developed on Unity platform in c sharp programming language for my year 1 Software Engineering Software Design Fundamentals and Programming class assignment.
 
 Main Screen
 
