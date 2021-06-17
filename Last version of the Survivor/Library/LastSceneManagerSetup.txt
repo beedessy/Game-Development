@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Beginner Level.unity
+  isLoaded: 1
+  isActive: 1
